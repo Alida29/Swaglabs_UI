@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+log.html
+output.xml
+report.html
+playwright-log.txt
+
